@@ -19,3 +19,5 @@ The generator expression is a value that will be returned for each item in the i
 	excellent mediums to represent an infinite stream of data, cannot be stored in memory, and since they are lazy, they can be used to represent an infinite sequence of values.
 4. Pipelining Generators
 	Generators can be used to pipeline a series of operations, where the output of one generator is fed into the next generator. Example: Fibonacci Numbers
+
+Source: Programiz "Python Generators"
